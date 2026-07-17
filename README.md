@@ -61,7 +61,7 @@ The CNN model was trained using the prepared dataset, with validation data being
 
 One important lesson from this project is that **a model does not need to be perfect to be useful**. Even with high accuracy, a CNN can sometimes make mistakes.
 
-<img width="565" height="240" alt="image" src="https://github.com/user-attachments/assets/df909304-4b91-48cf-bf0e-752dabcc13cf" />
+<img width="565" height="240" alt="image" src="https://github.com/user-attachments/assets/f2442672-02d6-42bd-81cb-37d882218514" />
 
 For example, in one prediction, the model classified a dog image as a cat, and the same happened with the cat classified as a dog. At first, it may seem like a failure, but this is actually an important part of understanding Machine Learning.
 
